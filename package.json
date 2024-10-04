@@ -1,0 +1,25 @@
+{
+    "name": "marktohtml",
+    "version": "0.0.1",
+    "description": "a simple javascript library that converts markdown into html",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamgautamsuthar/markToHtml.git"
+    },
+    "keywords": [
+        "markdown",
+        "html",
+        "markdown to html",
+        "marktohtml"
+    ],
+    "author": "Gautam Suthar <iamgautamsuthar@gmail.com> (http://github.com/@iamgautamsuthar)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iamgautamsuthar/markToHtml/issues"
+    },
+    "homepage": "https://github.com/iamgautamsuthar/markToHtml#readme"
+}

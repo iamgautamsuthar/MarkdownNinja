@@ -1,5 +1,5 @@
 {
-    "name": "marktohtml",
+    "name": "markdownninja",
     "version": "0.0.1",
     "description": "a simple javascript library that converts markdown into html",
     "main": "index.js",

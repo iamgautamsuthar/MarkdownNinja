@@ -1,4 +1,4 @@
-const marktohtml = (markdown) => {
+const markdownninja = (markdown) => {
     // Start with the original markdown string
     let html = markdown;
 
@@ -26,4 +26,4 @@ const marktohtml = (markdown) => {
     return html.trim();
 };
 
-export default marktohtml;
+export default markdownninja;
